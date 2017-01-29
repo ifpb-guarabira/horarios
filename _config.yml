@@ -15,3 +15,9 @@ gems:
 
 #Others
 markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - csv_to_json.py
+  - jekyll-cayman-theme.gemspec
