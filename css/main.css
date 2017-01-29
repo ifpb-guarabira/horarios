@@ -1,0 +1,27 @@
+.reverse-gray {
+    color: white;
+    background-color: #bbbbbb;
+}
+
+.reverse-green {
+    color: white;
+    background-color: #159957;
+}
+
+.reverse-black {
+    color: white;
+    background-color: #444;
+}
+
+td {
+    text-align: center;
+}
+
+.disciplina {
+    font-size: 14px;
+}
+
+.professor {
+    font-size: 14px;
+    font-weight: bold;
+}

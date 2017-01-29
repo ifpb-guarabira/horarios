@@ -11,53 +11,53 @@ def csv_to_json(csv_file):
     n, m = csv_data.next(), csv_data.next()
 
     turma = n[0]
-    horarios = [[], [], [], [], []]
+    linhas = []
+    colunas = m[:-1]
 
     try:
         while True:
             n, m = csv_data.next(), csv_data.next()
+            aulas = []
 
-            for i in range(5):
-                if n[i+1] and n[i+1] not in ("ALMOÇO", "JANTAR", "INTERVALO"):
-                    horarios[i].append({"disciplina" : n[i+1],
-                                        "professor"  : m[i+1]})
+            for i in range(len(colunas) - 1):
+                aulas.append({"disciplina" : n[i+1],
+                              "professor"  : m[i+1]})
 
-                else:
-                    horarios[i].append(None)
+            linhas.append({"horario" : n[0], "aulas" : aulas})
 
     except:
         pass
 
-    return {"turma" : turma, "horarios" : horarios}
+    return {"nome" : turma, "linhas" : linhas, "colunas" : colunas}
 
 cursos = []
 turmas = []
 
-turmas.append(csv_to_json(open("data/csv/Turmas-IN1.csv")))
-turmas.append(csv_to_json(open("data/csv/Turmas-IN2.csv")))
-turmas.append(csv_to_json(open("data/csv/Turmas-IN3.csv")))
-turmas.append(csv_to_json(open("data/csv/Turmas-IN4.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-IN1.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-IN2.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-IN3.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-IN4.csv")))
 
-cursos.append({"curso" : "Informática", "turmas" : turmas})
+cursos.append({"nome" : "Informática", "turmas" : turmas})
 turmas = []
 
-turmas.append(csv_to_json(open("data/csv/Turmas-ED1.csv")))
-turmas.append(csv_to_json(open("data/csv/Turmas-ED2.csv")))
-turmas.append(csv_to_json(open("data/csv/Turmas-ED3.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-ED1.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-ED2.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-ED3.csv")))
 
-cursos.append({"curso" : "Edificações", "turmas" : turmas})
+cursos.append({"nome" : "Edificações", "turmas" : turmas})
 turmas = []
 
-turmas.append(csv_to_json(open("data/csv/Turmas-CN1.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-CN1.csv")))
 
-cursos.append({"curso" : "Contabilidade", "turmas" : turmas})
+cursos.append({"nome" : "Contabilidade", "turmas" : turmas})
 turmas = []
 
-turmas.append(csv_to_json(open("data/csv/Turmas-GC1.csv")))
-turmas.append(csv_to_json(open("data/csv/Turmas-GC2.csv")))
-turmas.append(csv_to_json(open("data/csv/Turmas-GC3.csv")))
-turmas.append(csv_to_json(open("data/csv/Turmas-GC4.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-GC1.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-GC2.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-GC3.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-GC4.csv")))
 
-cursos.append({"curso" : "Gestão Comercial", "turmas" : turmas})
+cursos.append({"nome" : "Gestão Comercial", "turmas" : turmas})
 
-open("data/horarios.json", "w").write(json.dumps({"cursos" : cursos}))
+open("_data/horarios.json", "w").write(json.dumps({"cursos" : cursos}))

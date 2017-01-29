@@ -1,0 +1,49 @@
+---
+layout: default
+title: {{ site.name }}
+---
+
+<div id="home">
+  {% for curso in site.data.horarios.cursos %}
+    <div id="{{ curso.nome | downcase }}"></div>
+    {% for turma in curso.turmas %}
+      <h1>{{ turma.nome }}</h1>
+
+      <table>
+        <tr class="reverse-green">
+          {% for coluna in turma.colunas %}
+            <th>{{ coluna }}</th>
+          {% endfor %}
+        </tr>
+        {% for linha in turma.linhas %}
+          {% if linha.aulas[0].disciplina == "ALMOÇO"
+            or linha.aulas[0].disciplina == "JANTAR" %}
+            <tr class="reverse-black">
+              <td><b>{{ linha.horario }}</b></td>
+
+              <td colspan="5"><b>{{ linha.aulas[0].disciplina }}</b></td>
+            </tr>
+          {% else %}{% if linha.aulas[0].disciplina == "INTERVALO" %}
+            <tr class="reverse-gray">
+              <td><b>{{ linha.horario }}</b></td>
+
+              <td colspan="5"><b>{{ linha.aulas[0].disciplina }}</b></td>
+            </tr>
+          {% else %}
+            <tr>
+              <td><b>{{ linha.horario }}</b></td>
+              
+              {% for aula in linha.aulas %}
+                <td style="width: 145px;">
+                  <div class="disciplina">{{ aula.disciplina }}</div>
+                  <div class="professor">{{ aula.professor }}</div>
+                </td>
+              {% endfor %}
+            </tr>
+          {% endif %}{% endif %}
+        {% endfor %}
+      </table>
+
+    {% endfor %}
+  {% endfor %}
+</div>
