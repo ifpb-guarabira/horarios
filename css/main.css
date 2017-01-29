@@ -29,8 +29,8 @@ td {
 a[href="#top"]{
     padding:10px;
     position:fixed;
-    top: 90%;
-    right:40px;
+    bottom: 25px;
+    right:25px;
     font-size: 30px;
 }
 
