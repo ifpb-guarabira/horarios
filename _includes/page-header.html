@@ -1,8 +1,19 @@
 <section id="top" class="page-header">
   <h1 class="project-name">{{ site.title }}</h1>
   <h2 class="project-tagline">{{ site.tagline }}</h2>
-  <a class="btn" href="#informática">Informática</a>
-  <a class="btn" href="#edificações">Edificações</a>
-  <a class="btn" href="#contabilidade">Contabilidade</a>
-  <a class="btn" href="#gestão comercial">Gestão Comercial</a>
+  
+  <nav>
+    <ul>
+      {% for curso in site.data.horarios.cursos %}
+      <li>
+        <a class="btn">{{curso.nome}}</a>
+        <div class="dropdown-content">
+          {% for turma in curso.turmas %}
+            <a href="#">{{turma.nome}}</a>
+          {% endfor %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
 </section>
