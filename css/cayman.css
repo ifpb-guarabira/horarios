@@ -245,17 +245,16 @@ a {
 /* testando  */
 
 .dropbtn {
-    background-color: #4CAF50;
     color: white;
-    padding: 16px;
+    padding: 0.6rem 0.9rem;
     font-size: 16px;
-    border: none;
     cursor: pointer;
 }
 
 .dropdown {
     position: relative;
     display: inline-block;
+    margin-left: 16px;
 }
 
 .dropdown-content {
@@ -273,8 +272,6 @@ a {
     text-decoration: none;
     display: block;
 }
-
-.dropdown-content a:hover {background-color: #f1f1f1}
 
 .dropdown:hover .dropdown-content {
     display: block;
