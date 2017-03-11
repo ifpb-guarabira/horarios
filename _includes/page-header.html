@@ -2,14 +2,16 @@
   <h1 class="project-name">{{ site.title }}</h1>
   <h2 class="project-tagline">{{ site.tagline }}</h2>
   
-  <nav class = "dropdown">
+  <nav>
       {% for curso in site.data.horarios.cursos %}
+    <nav class = "dropdown">
         <a class="btn dropbtn">{{curso.nome}}</a>
         <div class="dropdown-content">
           {% for turma in curso.turmas %}
             <a href="#">{{turma.nome}}</a>
           {% endfor %}
         </div>
+      </nav>
       {% endfor %}
   </nav>
 </section>
