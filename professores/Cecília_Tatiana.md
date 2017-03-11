@@ -1,4 +1,4 @@
 ---
 layout: professor
-title: Cecília / Tatiana
+title: "Cecília / Tatiana"
 ---
