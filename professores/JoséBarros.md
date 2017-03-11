@@ -1,4 +1,4 @@
 ---
 layout: professor
-title: José Barros
+title: "José Barros"
 ---
