@@ -1,8 +1,26 @@
 <section id="top" class="page-header">
   <h1 class="project-name">{{ site.title }}</h1>
   <h2 class="project-tagline">{{ site.tagline }}</h2>
-  <a class="btn" href="#informática">Informática</a>
-  <a class="btn" href="#edificações">Edificações</a>
-  <a class="btn" href="#contabilidade">Contabilidade</a>
-  <a class="btn" href="#gestão comercial">Gestão Comercial</a>
+  
+  <nav>
+    {% for curso in site.data.horarios.cursos %}
+    <nav class = "dropdown">
+        <a class="btn dropbtn">{{curso.nome}}</a>
+        <div class="dropdown-content">
+          {% for turma in curso.turmas %}
+            <a href="turmas/{{turma.id}}">{{turma.nome}}</a>
+          {% endfor %}
+        </div>
+      </nav>
+    {% endfor %}
+    
+    <nav class = "dropdown">
+        <a class="btn dropbtn">Professores</a>
+        <div class="dropdown-content">
+          {% for prof in site.data.horarios.professores %}
+            <a href="professor/{{prof.id}}">{{prof.nome}}</a>
+          {% endfor %}
+        </div>
+      </nav>
+  </nav>
 </section>
