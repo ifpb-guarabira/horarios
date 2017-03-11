@@ -1,4 +1,4 @@
 ---
 layout: professor
-title: João Luiz
+title: "João Luiz"
 ---
