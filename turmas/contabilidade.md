@@ -1,4 +1,4 @@
 ---
-layout: turmas  
+layout: turma  
 title: "Contabilidade 1"
 ---
