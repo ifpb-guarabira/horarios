@@ -3,9 +3,7 @@ layout: default
 ---
 
 <div id="home">
-  {{page.title}}
-  {% for curso in site.data.horarios.professores %}
-          {{professor.nome}}
+  {% for professor in site.data.horarios.professores %}
     {% if professor.nome == page.title %}
       <h1>{{ professor.nome }}</h1>
 
