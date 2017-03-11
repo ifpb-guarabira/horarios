@@ -1,4 +1,4 @@
 ---
 layout: professor
-title: Arquimedes
+title: "Arquimedes"
 ---
