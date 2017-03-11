@@ -1,4 +1,4 @@
 ---
 layout: professor
-title: Katarina
+title: "Katarina"
 ---
