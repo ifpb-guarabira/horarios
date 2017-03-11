@@ -1,4 +1,4 @@
 ---
 layout: professor
-title: Monique
+title: "Monique"
 ---
