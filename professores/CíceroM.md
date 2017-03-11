@@ -1,4 +1,4 @@
 ---
 layout: professor
-title: Cícero M
+title: "Cícero M"
 ---
