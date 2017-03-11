@@ -1,4 +1,4 @@
 ---
 layout: professor
-title: Nélio e Bruna
+title: "Nélio e Bruna"
 ---
