@@ -283,3 +283,22 @@ a {
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
+#nav > ul > li {
+  display: inline-block;
+  margin: -9px 0.5em 0 0.5em;
+  border-radius: 0.5em;
+  padding: 0.85em;
+  border: solid 1px transparent;
+  -moz-transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
+  -webkit-transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
+  -ms-transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
+  transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
+}
+
+#nav > ul > li > a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  border: 0;
+  outline: 0;
+}
