@@ -1,4 +1,4 @@
 ---
 layout: professor
-title: Anna Carolina
+title: "Anna Carolina"
 ---
