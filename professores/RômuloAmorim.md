@@ -1,4 +1,4 @@
 ---
 layout: professor
-title: Rômulo Amorim
+title: "Rômulo Amorim"
 ---
