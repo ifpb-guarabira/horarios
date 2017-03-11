@@ -16,7 +16,7 @@
     
     <nav class = "dropdown">
         <a class="btn dropbtn">Professores</a>
-        <div class="dropdown-content">
+        <div class="dropdown-content" style="height:400px;overflow-y:auto;">
           {% for prof in site.data.horarios.professores %}
             <a href="professor/"{{prof.id}}>{{prof.nome}}</a>
           {% endfor %}
