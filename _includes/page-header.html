@@ -8,7 +8,7 @@
         <a class="btn dropbtn">{{curso.nome}}</a>
         <div class="dropdown-content">
           {% for turma in curso.turmas %}
-            <a href="#">{{turma.nome}}</a>
+            <a href="turmas/"{{turma.id}}>{{turma.nome}}</a>
           {% endfor %}
         </div>
       </nav>
@@ -18,7 +18,7 @@
         <a class="btn dropbtn">Professores</a>
         <div class="dropdown-content">
           {% for prof in site.data.horarios.professores %}
-            <a href="#">{{prof.nome}}</a>
+            <a href="professor/"{{prof.id}}>{{prof.nome}}</a>
           {% endfor %}
         </div>
       </nav>
