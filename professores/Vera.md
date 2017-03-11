@@ -1,4 +1,4 @@
 ---
 layout: professor
-title: Vera
+title: "Vera"
 ---
