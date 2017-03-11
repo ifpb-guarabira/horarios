@@ -4,6 +4,7 @@
 
 import csv
 import json
+from unicodedata import normalize
 
 def csv_to_json(csv_file):
     csv_data = csv.reader(csv_file, delimiter=";")
@@ -28,7 +29,9 @@ def csv_to_json(csv_file):
     except:
         pass
 
-    return {"nome" : turma, "linhas" : linhas, "colunas" : colunas}
+    codigo = normalize('NFKD', turma.decode("utf-8")).encode('ASCII', 'ignore').replace(" ","-").lower()
+
+    return {"id" : codigo, "nome" : turma, "linhas" : linhas, "colunas" : colunas}
 
 cursos = []
 turmas = []
