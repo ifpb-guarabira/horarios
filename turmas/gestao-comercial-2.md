@@ -1,4 +1,4 @@
 ---
 layout: turma
-title: "Gestão Comercial 2"
+title: "Gest. Comercial 2"
 ---
