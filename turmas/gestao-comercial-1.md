@@ -1,4 +1,4 @@
 ---
 layout: turma
-title: "Ges. Comercial 1"
+title: "Gest. Comercial 1"
 ---
