@@ -1,4 +1,4 @@
 ---
-layout: professores
+layout: professor
 title: Adriana
 ---
