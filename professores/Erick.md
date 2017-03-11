@@ -1,0 +1,4 @@
+---
+layout: professor
+title: Erick
+---
