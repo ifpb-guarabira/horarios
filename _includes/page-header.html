@@ -3,7 +3,7 @@
   <h2 class="project-tagline">{{ site.tagline }}</h2>
   
   <nav>
-      {% for curso in site.data.horarios.cursos %}
+    {% for curso in site.data.horarios.cursos %}
     <nav class = "dropdown">
         <a class="btn dropbtn">{{curso.nome}}</a>
         <div class="dropdown-content">
@@ -12,6 +12,15 @@
           {% endfor %}
         </div>
       </nav>
-      {% endfor %}
+    {% endfor %}
+    
+    <nav class = "dropdown">
+        <a class="btn dropbtn">Professores</a>
+        <div class="dropdown-content">
+          {% for prof in site.data.horarios.professores %}
+            <a href="#">{{prof.nome}}</a>
+          {% endfor %}
+        </div>
+      </nav>
   </nav>
 </section>
