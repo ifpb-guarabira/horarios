@@ -302,3 +302,6 @@ a {
   border: 0;
   outline: 0;
 }
+ul{
+  display: inline-block;
+}
