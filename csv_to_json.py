@@ -50,7 +50,9 @@ def professores_in_cursos(cursos):
     return professores
 
 def turma_to_professor(t, p):
-    result = {"nome" : p, "colunas" : t["colunas"], "linhas" : [] }
+    codigo = normalize('NFKD', p.decode("utf-8")).encode('ASCII', 'ignore').replace(" ","-").lower()
+
+    result = {"id" : codigo, "nome" : p, "colunas" : t["colunas"], "linhas" : [] }
     
     for l in t["linhas"]:
         linha = {"horario" : l["horario"], "aulas" : []}

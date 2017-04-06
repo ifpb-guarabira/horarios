@@ -1,19 +1,14 @@
 # Setup
-title:        Horários
-tagline:      IFPB Campus Guarabira
-baseurl:      ""
-paginate:     1
+title: Horários
+tagline: IFPB Campus Guarabira
+baseurl: "/horarios"
 
 # About/contact
 author:
-  name:       Moisés Guimarães
-  url:        https://github.com/moisesguimaraes
+  name: Moisés Guimarães
+  url: https://moisesguimaraes.github.io
 
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
+# Others
 markdown: kramdown
 
 exclude:
