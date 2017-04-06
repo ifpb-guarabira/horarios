@@ -33,6 +33,65 @@ def csv_to_json(csv_file):
 
     return {"id" : codigo, "nome" : turma, "linhas" : linhas, "colunas" : colunas}
 
+
+def professores_in_cursos(cursos):
+    professores = set()
+    
+    for curso in cursos:
+        for turma in curso["turmas"]:
+            for linha in turma["linhas"]:
+                for aula in linha["aulas"]:
+                    if aula["professor"]:
+                        professores.add(aula["professor"])
+    
+    professores = list(professores)
+    professores.sort()
+    
+    return professores
+
+def turma_to_professor(t, p):
+    result = {"nome" : p, "colunas" : t["colunas"], "linhas" : [] }
+    
+    for l in t["linhas"]:
+        linha = {"horario" : l["horario"], "aulas" : []}
+        
+        for a in l["aulas"]:
+            linha["aulas"].append({
+                "turma" : t["nome"] if a["professor"] == p else
+                          "",
+                "disciplina" : a["disciplina"] if a["professor"] == p else
+                               a["disciplina"] if a["disciplina"] in ["INTERVALO",
+                                   "ALMOÇO", "JANTAR"] else
+                               ""
+                })
+
+        result["linhas"].append(linha)
+    
+    return result
+
+def cursos_to_professores(cursos, professores):
+    result = []
+    turmas = []
+
+    for curso in cursos:
+        turmas += curso["turmas"]
+
+    for nome in professores:
+        professor = turma_to_professor(turmas[0], nome)
+
+        for t in range(1, len(turmas)):
+            for l in range(len(turmas[t]["linhas"])):
+                for a in range(len(turmas[t]["linhas"][l]["aulas"])):
+                    aula = turmas[t]["linhas"][l]["aulas"][a]
+
+                    if aula["professor"] == nome:
+                        professor["linhas"][l]["aulas"][a]["turma"] = turmas[t]["nome"]
+                        professor["linhas"][l]["aulas"][a]["disciplina"] = aula["disciplina"]
+
+        result.append(professor)
+
+    return result
+
 cursos = []
 turmas = []
 
@@ -63,4 +122,11 @@ turmas.append(csv_to_json(open("_csv/Turmas-GC4.csv")))
 
 cursos.append({"nome" : "Gestão Comercial", "turmas" : turmas})
 
-open("_data/horarios.json", "w").write(json.dumps({"cursos" : cursos}))
+
+professores = professores_in_cursos(cursos)
+
+with open("_data/horarios.json", "w") as file:
+    file.write(json.dumps({
+        "cursos" : cursos,
+        "professores" : cursos_to_professores(cursos, professores)
+    }))
