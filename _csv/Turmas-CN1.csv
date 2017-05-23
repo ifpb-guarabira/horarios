@@ -1,31 +1,31 @@
 Contabilidade 1;;;;;;
 Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
-7:00;;;;Contabilidade Básica;Química I;abc
-;;;;Fernando;André;
-7:50;;Matemática I;;Contabilidade Básica;Química I;abc
-;;Rômulo;;Fernando;André;
-8:40;História I;Sistemas e Métodos Organizacionais;Filosofia I;Química I;Geografia I;abc
-;Divino;Amândio;Michel;André;Alexandre;
+7:00;Contabilidade Básica;Matemática I;;Português I;Educação Física I;abc
+;João Paulo;Eduardo;;Erivan;Ramon;
+7:50;Contabilidade Básica;Matemática I;Matemática I;Português I;Educação Física I;abc
+;João Paulo;Eduardo;Eduardo;Erivan;Ramon;
+8:40;Informática Básica;Artes;Economia e Mercado;Geografia I;Educação Física I;abc
+;Jefferson;Líbna;Adriana;Juciara;Ramon;
 9:30;INTERVALO;;;;;
 ;;;;;;
-9:50;História I;Sistemas e Métodos Organizacionais;Filosofia I;Português I;Geografia I;abc
-;Divino;Amândio;Michel;Erivan;Alexandre;
-10:40;Informática Básica;Artes;Economia e Mercado;Matemática I;Português I;abc
-;Jefferson;Líbna;Tatiana;Rômulo;Erivan;
-11:30;Informática Básica;Artes;Economia e Mercado;Matemática I;Português I;abc
-;Jefferson;Líbna;Tatiana;Rômulo;Erivan;
+9:50;Informática Básica;Artes;Economia e Mercado;Geografia I;Português I;abc
+;Jefferson;Líbna;Adriana;Juciara;Erivan;
+10:40;História I;Sistemas e Métodos Organizacionais;Sociologia I;Química I;Química I;abc
+;Divino;Amândio;Rômulo Amorim;André;André;
+11:30;História I;Sistemas e Métodos Organizacionais;Sociologia I;;Química I;abc
+;Divino;Amândio;Rômulo Amorim;;André;
 12:20;ALMOÇO;;;;;
 ;;;;;;
 13:00;;;;;;abc
 ;;;;;;
-13:50;;;;Educação Física I;;abc
-;;;;Ramon;;
+13:50;;;;;;abc
+;;;;;;
 14:40;INTERVALO;;;;;
 ;;;;;;
-15:00;;;;Educação Física I;;abc
-;;;;Ramon;;
-15:50;;;;Educação Física I;;abc
-;;;;Ramon;;
+15:00;;;;;;abc
+;;;;;;
+15:50;;;;;;abc
+;;;;;;
 16:40;;;;;;abc
 ;;;;;;
 17:30;JANTAR;;;;;

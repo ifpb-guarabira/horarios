@@ -16,18 +16,18 @@ Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
 ;;;;;;
 12:20;ALMOÇO;;;;;
 ;;;;;;
-13:00;Sociologia IV;Redes de Computadores;Física III;Desenvolvimento de Aplicações Web;;abc
-;Rômulo Amorim;Erick;João Luiz;Moisés;;
-13:50;Sociologia IV;Redes de Computadores;Física III;Desenvolvimento de Aplicações Web;Biologia III;abc
-;Rômulo Amorim;Erick;João Luiz;Moisés;Dayana;
+13:00;;Física III;Análise e Projeto de Sistemas;Português IV;Redes de Computadores;abc
+;;Arquimedes;Fernanda;Erivan;Erick;
+13:50;Filosofia IV;Física III;Análise e Projeto de Sistemas;Português IV;Redes de Computadores;abc
+;Michel;Arquimedes;Fernanda;Erivan;Erick;
 14:40;INTERVALO;;;;;
 ;;;;;;
-15:00;História III;Análise e Projeto de Sistemas;Banco de Dados;Desenvolvimento de Aplicações Web;Biologia III;abc
-;Divino;Nélio;Nélio;Moisés;Dayana;
-15:50;História III;Análise e Projeto de Sistemas;Banco de Dados;Português IV;;abc
-;Divino;Nélio;Nélio;Erivan;;
-16:40;;;;Português IV;;abc
-;;;;Erivan;;
+15:00;Filosofia IV;História III;Desenvolvimento de Aplicações Web;Tópicos Especiais;Empreendedorismo;abc
+;Michel;Divino;Moisés;Moisés;Cristiano;
+15:50;Biologia III;História III;Desenvolvimento de Aplicações Web;Tópicos Especiais;Empreendedorismo;abc
+;Dayana;Divino;Moisés;Moisés;Cristiano;
+16:40;Biologia III;;Desenvolvimento de Aplicações Web;;;abc
+;Dayana;;Moisés;;;
 17:30;JANTAR;;;;;
 ;;;;;;
 18:00;;;;;;abc

@@ -1,19 +1,19 @@
 Edificações 1;;;;;;
 Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
-7:00;Química I;Sociologia I;Filosofia I;Português I;Desenho Técnico;abc
-;Sayonara;Rômulo Amorim;Michel;Vera;Larisse;
-7:50;Química I;Sociologia I;Filosofia I;Matemática I;Desenho Técnico;abc
-;Sayonara;Rômulo Amorim;Michel;Rômulo;Larisse;
-8:40;Informática Básica;Matemática I;Química I;Biologia I;Desenho Técnico;abc
-;Jefferson;Rômulo;Sayonara;Dayana;Larisse;
+7:00;História I;Artes;Química I;Matemática I;Desenho Técnico;abc
+;Divino;Líbna;Sayonara;Cícero D;Larisse;
+7:50;História I;Artes;Biologia I;Matemática I;Desenho Técnico;abc
+;Divino;Líbna;Dayana;Cícero D;Larisse;
+8:40;Biologia I;Filosofia I;Filosofia I;Física I;Desenho Técnico;abc
+;Dayana;Michel;Michel;João Luiz;Larisse;
 9:30;INTERVALO;;;;;
 ;;;;;;
-9:50;Informática Básica;Matemática I;Artes;Biologia I;Biologia I;abc
-;Jefferson;Rômulo;Líbna;Dayana;Dayana;
-10:40;História I;Metodologia da Pesquisa Científica;Artes;Física I;Português I;abc
-;Divino;Sabrina;Líbna;João Luiz;Vera;
-11:30;História I;Metodologia da Pesquisa Científica;Física I;Física I;Português I;abc
-;Divino;Sabrina;João Luiz;João Luiz;Vera;
+9:50;;Filosofia I;Filosofia I;Física I;Português I;abc
+;;Michel;Michel;João Luiz;Alcimar;
+10:40;Química I;Metodologia da Pesquisa Científica;Informática Básica;Português I;Física I;abc
+;Sayonara;Fernanda;Fernanda;Alcimar;João Luiz;
+11:30;Química I;Metodologia da Pesquisa Científica;Informática Básica;Português I;Matemática I;abc
+;Sayonara;Fernanda;Fernanda;Alcimar;Cícero D;
 12:20;ALMOÇO;;;;;
 ;;;;;;
 13:00;;;;;;abc

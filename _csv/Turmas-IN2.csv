@@ -1,31 +1,31 @@
 Informática 2;;;;;;
 Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
-7:00;Arquitetura de Computadores;Física I;Introdução ao Banco de Dados;Matemática II;Português II;abc
-;Jefferson;Arquimedes;Nélio;Cícero D;Vera;
-7:50;Arquitetura de Computadores;Algoritmos e Estruturas de Dados;Introdução ao Banco de Dados;Português II;Português II;abc
-;Jefferson;Rodrigo;Nélio;Vera;Vera;
-8:40;Inglês II;Sociologia II;Algoritmos e Estruturas de Dados;Geografia II;Matemática II;abc
-;Cláudia;Rômulo Amorim;Rodrigo;Alexandre;Cícero D;
+7:00;Inglês II;Física I;Filosofia II;Algoritmos e Estruturas de Dados;Matemática II;abc
+;Cláudia;Arquimedes;Michel;Moisés;Cícero D;
+7:50;Inglês II;Física I;Filosofia II;Algoritmos e Estruturas de Dados;Matemática II;abc
+;Cláudia;Arquimedes;Michel;Moisés;Cícero D;
+8:40;História I;Biologia I;Física I;Matemática II;Geografia II;abc
+;Divino;Dayana;Arquimedes;Cícero D;Alexandre;
 9:30;INTERVALO;;;;;
 ;;;;;;
-9:50;Inglês II;Sociologia II;Algoritmos e Estruturas de Dados;Geografia II;Matemática II;abc
-;Cláudia;Rômulo Amorim;Rodrigo;Alexandre;Cícero D;
-10:40;Química II;História I;Física I;Filosofia II;Biologia I;abc
-;Sayonara;Divino;Arquimedes;Michel;Dayana;
-11:30;Química II;História I;Física I;Filosofia II;Biologia I;abc
-;Sayonara;Divino;Arquimedes;Michel;Dayana;
+9:50;História I;Biologia I;Química II;Português II;Geografia II;abc
+;Divino;Dayana;Sayonara;Alcimar;Alexandre;
+10:40;Arquitetura de Computadores;Filosofia II;Química II;Introdução ao Banco de Dados;Português II;abc
+;Jefferson;Michel;Sayonara;José Barros;Alcimar;
+11:30;Arquitetura de Computadores;Filosofia II;Algoritmos e Estruturas de Dados;Introdução ao Banco de Dados;Português II;abc
+;Jefferson;Michel;Moisés;José Barros;Alcimar;
 12:20;ALMOÇO;;;;;
 ;;;;;;
 13:00;;;;;;abc
 ;;;;;;
-13:50;;;Educação Física II;;;abc
-;;;Ramon;;;
+13:50;;;;;Educação Física II;abc
+;;;;;Ramon;
 14:40;INTERVALO;;;;;
 ;;;;;;
-15:00;;;Educação Física II;;;abc
-;;;Ramon;;;
-15:50;;;Educação Física II;;;abc
-;;;Ramon;;;
+15:00;;;;;Educação Física II;abc
+;;;;;Ramon;
+15:50;;;;;Educação Física II;abc
+;;;;;Ramon;
 16:40;;;;;;abc
 ;;;;;;
 17:30;JANTAR;;;;;

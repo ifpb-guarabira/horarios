@@ -1,33 +1,33 @@
 Edificações 3;;;;;;
 Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
-7:00;;;História III;Química III;Geografia II;abc
-;;;Divino;André;Alexandre;
-7:50;;;História III;Química III;Geografia II;abc
-;;;Divino;André;Alexandre;
-8:40;;;Física III;Matemática III;Português III;abc
-;;;Arquimedes;Cícero D;Erivan;
+7:00;;Biologia III;História III;Geografia II;;abc
+;;Dayana;Divino;Alexandre;;
+7:50;;Biologia III;História III;Geografia II;;abc
+;;Dayana;Divino;Alexandre;;
+8:40;;Física III;Matemática III;Português III;Português III;abc
+;;Arquimedes;Eduardo;Erivan;Erivan;
 9:30;INTERVALO;;;;;
 ;;;;;;
-9:50;;;Física III;Matemática III;Português III;abc
-;;;Arquimedes;Cícero D;Erivan;
-10:40;;;Inglês II;Português III;Matemática III;abc
-;;;Cláudia;Erivan;Cícero D;
-11:30;;;Inglês II;Português III;Matemática III;abc
-;;;Cláudia;Erivan;Cícero D;
+9:50;;Física III;Matemática III;Tecnologia das Construções I;Educação Física III;abc
+;;Arquimedes;Eduardo;Substituto;Marcos;
+10:40;;Matemática III;Mecânica dos Solos;Tecnologia das Construções I;Educação Física III;abc
+;;Eduardo;Substituto;Substituto;Marcos;
+11:30;;Matemática III;Mecânica dos Solos;Tecnologia das Construções I;Educação Física III;abc
+;;Eduardo;Substituto;Substituto;Marcos;
 12:20;ALMOÇO;;;;;
 ;;;;;;
-13:00;Desenho de Estruturas;Tecnologia das Construções I;;Biologia III;;abc
-;Cícero M;Daniel;;Dayana;;
-13:50;Desenho de Estruturas;Tecnologia das Construções I;;Biologia III;Educação Física III;abc
-;Cícero M;Daniel;;Dayana;Marcos;
+13:00;Sociologia III;;;Química III;;abc
+;Rômulo Amorim;;;André;;
+13:50;Sociologia III;;;Química III;Introdução ao Projeto Arquitetônico;abc
+;Rômulo Amorim;;;André;Larisse;
 14:40;INTERVALO;;;;;
 ;;;;;;
-15:00;Sociologia III;Tecnologia das Construções I;;Introdução ao Projeto Arquitetônico;Educação Física III;abc
-;Rômulo Amorim;Daniel;;Larisse;Marcos;
-15:50;Sociologia III;Mecânica dos Solos;;Introdução ao Projeto Arquitetônico;Educação Física III;abc
-;Rômulo Amorim;Cícero M;;Larisse;Marcos;
-16:40;;Mecânica dos Solos;;Introdução ao Projeto Arquitetônico;;abc
-;;Cícero M;;Larisse;;
+15:00;Desenho de Estruturas;;;Português III;Introdução ao Projeto Arquitetônico;abc
+;Cícero M;;;Erivan;Larisse;
+15:50;Desenho de Estruturas;;;Português III;Introdução ao Projeto Arquitetônico;abc
+;Cícero M;;;Erivan;Larisse;
+16:40;;;;;;abc
+;;;;;;
 17:30;JANTAR;;;;;
 ;;;;;;
 18:00;;;;;;abc
