@@ -108,22 +108,15 @@ turmas = []
 turmas.append(csv_to_json(open("_csv/Turmas-ED1.csv")))
 turmas.append(csv_to_json(open("_csv/Turmas-ED2.csv")))
 turmas.append(csv_to_json(open("_csv/Turmas-ED3.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-ED4.csv")))
 
 cursos.append({"nome" : "Edificações", "turmas" : turmas})
 turmas = []
 
 turmas.append(csv_to_json(open("_csv/Turmas-CN1.csv")))
+turmas.append(csv_to_json(open("_csv/Turmas-CN2.csv")))
 
 cursos.append({"nome" : "Contabilidade", "turmas" : turmas})
-turmas = []
-
-turmas.append(csv_to_json(open("_csv/Turmas-GC1.csv")))
-turmas.append(csv_to_json(open("_csv/Turmas-GC2.csv")))
-turmas.append(csv_to_json(open("_csv/Turmas-GC3.csv")))
-turmas.append(csv_to_json(open("_csv/Turmas-GC4.csv")))
-
-cursos.append({"nome" : "Gestão Comercial", "turmas" : turmas})
-
 
 professores = professores_in_cursos(cursos)
 

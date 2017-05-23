@@ -1,15 +1,15 @@
 Informática 1;;;;;;
 Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
-7:00;Fundamentos da Informática;Filosofia I;;Português I;Educação Física I;abc
-;Jefferson;Michel;;Alcimar;Marcos;
-7:50;Fundamentos da Informática;Filosofia I;Química I;Algoritmos e Lógica de Programação;Educação Física I;abc
-;Jefferson;Michel;Sayonara;Nélio;Marcos;
-8:40;Química I;História I;Geografia I;Algoritmos e Lógica de Programação;Educação Física I;abc
-;Sayonara;Divino;Alexandre;Nélio;Marcos;
+7:00;Química I;Filosofia I;;Português I;Educação Física I;abc
+;Sayonara;Michel;;Alcimar;Marcos;
+7:50;Química I;Filosofia I;Química I;Algoritmos e Lógica de Programação;Educação Física I;abc
+;Sayonara;Michel;Sayonara;Nélio;Marcos;
+8:40;Fundamentos da Informática;História I;Geografia I;Algoritmos e Lógica de Programação;Educação Física I;abc
+;Jefferson;Divino;Alexandre;Nélio;Marcos;
 9:30;INTERVALO;;;;;
 ;;;;;;
-9:50;Química I;História I;Geografia I;Matemática I;Matemática I;abc
-;Sayonara;Divino;Alexandre;Cícero D;Cícero D;
+9:50;Fundamentos da Informática;História I;Geografia I;Matemática I;Matemática I;abc
+;Jefferson;Divino;Alexandre;Cícero D;Cícero D;
 10:40;Inglês I;Artes;Português I;Matemática I;Matemática I;abc
 ;Cláudia;Líbna;Alcimar;Cícero D;Cícero D;
 11:30;Inglês I;Artes;Português I;;;abc
