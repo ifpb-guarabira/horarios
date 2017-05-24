@@ -1,5 +1,5 @@
 Contabilidade 1;;;;;;
-Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
+Hora;Segunda;Terça;Quarta;Quinta;Sexta;
 7:00;Informática Básica;Matemática I;;Química I;Educação Física I;abc
 ;Jefferson;Eduardo;;André;Ramon;
 7:50;Informática Básica;Matemática I;Matemática I;Química I;Educação Física I;abc
@@ -10,8 +10,8 @@ Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
 ;;;;;;
 9:50;Contabilidade Básica;Artes;Noções de Direito;Fundamentos da Administração;Química I;abc
 ;João Paulo;Líbna;Adriana;Jucyara;André;
-10:40;História I;Sistemas e Métodos Organizacionais;Sociologia I;Fundamentos da Administração;Química I;abc
-;Divino;Amândio;Rômulo Amorim;Jucyara;André;
+10:40;História I;Sistemas e Métodos Organizacionais;Sociologia I;Fundamentos da Administração;Português I;abc
+;Divino;Amândio;Rômulo Amorim;Jucyara;Erivan;
 11:30;História I;Sistemas e Métodos Organizacionais;Sociologia I;;Português I;abc
 ;Divino;Amândio;Rômulo Amorim;;Erivan;
 12:20;ALMOÇO;;;;;
