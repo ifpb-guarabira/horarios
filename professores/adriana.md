@@ -1,4 +1,4 @@
 ---
-layout: professor
-title: "Adriana"
+category: professor
+name: "Adriana"
 ---

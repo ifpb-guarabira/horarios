@@ -1,0 +1,9 @@
+<nav id="nav">
+	<ul class="actions vertical special spinY">
+		{% for panel in site.panels %}
+			{% if panel.category == include.category %}
+				<li><a href="#{{ panel.html_id }}" class="button">{{ panel.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</nav>

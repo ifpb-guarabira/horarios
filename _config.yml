@@ -1,18 +1,30 @@
-# Setup
+# Site settings
 title: Horários
 tagline: IFPB Campus Guarabira
+description: > # this means to ignore newlines until "baseurl:"
+  Site de horários dos cursos oferecidos pelo IFPB Campus Guarabira.
 baseurl: "/horarios"
+url: "https://ifpb-guarabira.github.io" # the base hostname & protocol for your site
 
 # About/contact
 author:
   name: Moisés Guimarães
   url: https://moisesguimaraes.github.io
 
-# Others
+# Build settings
 markdown: kramdown
+sass:
+  sass_dir: assets/sass
+
+# Collections
+# Add new slides as HTML files inside the _panels folder
+collections:
+  - panels
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - csv_to_json.py
+  - _csv
   - jekyll-cayman-theme.gemspec
+  - themes

@@ -1,4 +1,0 @@
----
-layout: professor
-title: "Marcos"
----
