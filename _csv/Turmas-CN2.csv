@@ -1,19 +1,19 @@
 Contabilidade 2;;;;;;
 Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
-7:00;Biologia I;História II;Geografia II;Química II;;abc
-;Dayana;Divino;Alexandre;André;;
-7:50;Biologia I;História II;Geografia II;Química II;;abc
-;Dayana;Divino;Alexandre;André;;
-8:40;Inglês I;Matemática Financeira;Matemática II;Geografia II;Física I;abc
-;Cláudia;Eduardo;Rômulo;Alexandre;João Luiz;
+7:00;Contabilidade e Custos;História II;Matemática II;Português II;Química II;abc
+;João Paulo;Divino;Rômulo;Erivan;André;
+7:50;Contabilidade e Custos;História II;Matemática II;Português II;Química II;abc
+;João Paulo;Divino;Rômulo;Erivan;André;
+8:40;Inglês I;Matemática Financeira;Geografia II;Geografia II;Física I;abc
+;Cláudia;Eduardo;Alexandre;Alexandre;João Luiz;
 9:30;INTERVALO;;;;;
 ;;;;;;
-9:50;Inglês I;Matemática Financeira;Matemática II;Geografia II;Física I;abc
-;Cláudia;Eduardo;Rômulo;Alexandre;João Luiz;
-10:40;Contabilidade e Custos;Biologia I;Filosofia II;Física I;Português II;abc
-;João Paulo;Dayana;Michel;João Luiz;Erivan;
-11:30;Contabilidade e Custos;;Filosofia II;Matemática II;Português II;abc
-;João Paulo;;Michel;Rômulo;Erivan;
+9:50;Inglês I;Matemática Financeira;Geografia II;Geografia II;Física I;abc
+;Cláudia;Eduardo;Alexandre;Alexandre;João Luiz;
+10:40;Biologia I;Biologia I;Filosofia II;Física I;;abc
+;Dayana;Dayana;Michel;João Luiz;;
+11:30;;Biologia I;Filosofia II;Matemática II;;abc
+;;Dayana;Michel;Rômulo;;
 12:20;ALMOÇO;;;;;
 ;;;;;;
 13:00;;;;;;abc

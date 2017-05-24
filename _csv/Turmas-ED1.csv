@@ -1,15 +1,15 @@
 Edificações 1;;;;;;
 Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
-7:00;História I;Artes;Química I;Matemática I;Desenho Técnico;abc
-;Divino;Líbna;Sayonara;Cícero D;Larisse;
-7:50;História I;Artes;Biologia I;Matemática I;Desenho Técnico;abc
-;Divino;Líbna;Dayana;Cícero D;Larisse;
-8:40;Biologia I;Filosofia I;Filosofia I;Física I;Desenho Técnico;abc
-;Dayana;Michel;Michel;João Luiz;Larisse;
+7:00;História I;Artes;Filosofia I;Matemática I;Desenho Técnico;abc
+;Divino;Líbna;Michel;Cícero D;Larisse;
+7:50;História I;Artes;Filosofia I;Matemática I;Desenho Técnico;abc
+;Divino;Líbna;Michel;Cícero D;Larisse;
+8:40;Biologia I;Filosofia I;Química I;Física I;Desenho Técnico;abc
+;Dayana;Michel;Sayonara;João Luiz;Larisse;
 9:30;INTERVALO;;;;;
 ;;;;;;
-9:50;Biologia I;Filosofia I;Filosofia I;Física I;Português I;abc
-;Dayana;Michel;Michel;João Luiz;Alcimar;
+9:50;Biologia I;Filosofia I;Biologia I;Física I;Português I;abc
+;Dayana;Michel;Dayana;João Luiz;Alcimar;
 10:40;Química I;Metodologia da Pesquisa Científica;Informática Básica;Português I;Física I;abc
 ;Sayonara;Fernanda;Fernanda;Alcimar;João Luiz;
 11:30;Química I;Metodologia da Pesquisa Científica;Informática Básica;Português I;Matemática I;abc
@@ -18,14 +18,14 @@ Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
 ;;;;;;
 13:00;;;;;;abc
 ;;;;;;
-13:50;;;;Educação Física I;;abc
-;;;;Marcos;;
+13:50;;;;Educação Física I;Desenho Técnico;abc
+;;;;Marcos;Larisse;
 14:40;INTERVALO;;;;;
 ;;;;;;
-15:00;;;;Educação Física I;;abc
-;;;;Marcos;;
-15:50;;;;Educação Física I;;abc
-;;;;Marcos;;
+15:00;;;;Educação Física I;Desenho Técnico;abc
+;;;;Marcos;Larisse;
+15:50;;;;Educação Física I;Desenho Técnico;abc
+;;;;Marcos;Larisse;
 16:40;;;;;;abc
 ;;;;;;
 17:30;JANTAR;;;;;

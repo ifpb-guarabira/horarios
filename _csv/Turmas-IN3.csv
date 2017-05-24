@@ -8,26 +8,26 @@ Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
 ;;Fernanda;Dayana;André;Cícero D;
 9:30;INTERVALO;;;;;
 ;;;;;;
-9:50;;Metodologia da Pesquisa Científica;Programação Orientada a Objetos;Química III;Educação Física III;abc
-;;Fernanda;José Barros;André;Ramon;
-10:40;;Sociologia III;Programação Orientada a Objetos;Sistemas Operacionais;Educação Física III;abc
-;;Rômulo Amorim;José Barros;Nélio;Ramon;
-11:30;;Sociologia III;Programação Orientada a Objetos;Sistemas Operacionais;Educação Física III;abc
-;;Rômulo Amorim;José Barros;Nélio;Ramon;
+9:50;;Metodologia da Pesquisa Científica;Programação Orientada a Objetos;Química III;;abc
+;;Fernanda;José Barros;André;;
+10:40;;Sociologia III;Programação Orientada a Objetos;Sistemas Operacionais;;abc
+;;Rômulo Amorim;José Barros;Nélio;;
+11:30;;Sociologia III;Programação Orientada a Objetos;Sistemas Operacionais;;abc
+;;Rômulo Amorim;José Barros;Nélio;;
 12:20;ALMOÇO;;;;;
 ;;;;;;
-13:00;;;;Matemática III;;abc
-;;;;Cícero D;;
-13:50;Biologia II;;;Matemática III;;abc
-;Dayana;;;Cícero D;;
+13:00;Biologia II;;;;;abc
+;Dayana;;;;;
+13:50;Biologia II;;Educação Física III;Matemática III;;abc
+;Dayana;;Ramon;Cícero D;;
 14:40;INTERVALO;;;;;
 ;;;;;;
-15:00;Biologia II;;;Banco de Dados;;abc
-;Dayana;;;José Barros;;
-15:50;História II;;;Banco de Dados;;abc
-;Divino;;;José Barros;;
-16:40;História II;;;;;abc
-;Divino;;;;;
+15:00;História II;;Educação Física III;Matemática III;;abc
+;Divino;;Ramon;Cícero D;;
+15:50;História II;;Educação Física III;Banco de Dados;;abc
+;Divino;;Ramon;José Barros;;
+16:40;;;;Banco de Dados;;abc
+;;;;José Barros;;
 17:30;JANTAR;;;;;
 ;;;;;;
 18:00;;;;;;abc

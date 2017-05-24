@@ -1,15 +1,15 @@
 Informática 2;;;;;;
 Hora;Segunda-feira;Terça-feira;Quarta-feira;Quinta-feira;Sexta-feira;
-7:00;Inglês II;Física I;Filosofia II;Algoritmos e Estruturas de Dados;Matemática II;abc
-;Cláudia;Arquimedes;Michel;Moisés;Cícero D;
-7:50;Inglês II;Física I;Filosofia II;Algoritmos e Estruturas de Dados;Matemática II;abc
-;Cláudia;Arquimedes;Michel;Moisés;Cícero D;
-8:40;História I;Biologia I;Química II;Matemática II;Geografia II;abc
-;Divino;Dayana;Sayonara;Cícero D;Alexandre;
+7:00;Inglês II;Biologia I;Química II;Algoritmos e Estruturas de Dados;Matemática II;abc
+;Cláudia;Dayana;Sayonara;Moisés;Cícero D;
+7:50;Inglês II;Biologia I;Química II;Algoritmos e Estruturas de Dados;Matemática II;abc
+;Cláudia;Dayana;Sayonara;Moisés;Cícero D;
+8:40;História I;Física I;Filosofia II;Matemática II;Geografia II;abc
+;Divino;Arquimedes;Michel;Cícero D;Alexandre;
 9:30;INTERVALO;;;;;
 ;;;;;;
-9:50;História I;Biologia I;Química II;Português II;Geografia II;abc
-;Divino;Dayana;Sayonara;Alcimar;Alexandre;
+9:50;História I;Física I;Filosofia II;Português II;Geografia II;abc
+;Divino;Arquimedes;Michel;Alcimar;Alexandre;
 10:40;Arquitetura de Computadores;Filosofia II;Física I;Introdução ao Banco de Dados;Português II;abc
 ;Jefferson;Michel;Arquimedes;José Barros;Alcimar;
 11:30;Arquitetura de Computadores;Filosofia II;Algoritmos e Estruturas de Dados;Introdução ao Banco de Dados;Português II;abc
