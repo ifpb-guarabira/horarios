@@ -1,4 +1,0 @@
----
-category: professor
-name: "Adriana"
----
