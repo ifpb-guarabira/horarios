@@ -16,18 +16,18 @@ Hora;Segunda;Terça;Quarta;Quinta;Sexta;
 ;Amândio;;;;;
 12:20;ALMOÇO;;;;;
 ;;;;;;
-13:00;;História III;Imp. Ambientais e Construções Sustentáveis;Projeto Arquitetônico;Instalações Elétricas Prediais;abc
-;;Divino;Taysa;Larisse;Substituto;
-13:50;Orçamento de Obras;História III;Imp. Ambientais e Construções Sustentáveis;Projeto Arquitetônico;Instalações Elétricas Prediais;abc
-;Cícero M;Divino;Taysa;Larisse;Substituto;
+13:00;;História III;Imp. Ambientais e Construções Sustentáveis;Instalações Elétricas Prediais;Instalações Elétricas Prediais;abc
+;;Divino;Taysa;Substituto;Substituto;
+13:50;Orçamento de Obras;História III;Imp. Ambientais e Construções Sustentáveis;Instalações Elétricas Prediais;Instalações Elétricas Prediais;abc
+;Cícero M;Divino;Taysa;Substituto;Substituto;
 14:40;INTERVALO;;;;;
 ;;;;;;
 15:00;Orçamento de Obras;Tecnologia das Construções II;Instalações Hidrossanitárias;Projeto Arquitetônico;;abc
 ;Cícero M;Cícero M;Taysa;Larisse;;
-15:50;Higiene e Segurança no Trabalho;Tecnologia das Construções II;Instalações Hidrossanitárias;Instalações Elétricas Prediais;;abc
-;Amândio;Cícero M;Taysa;Substituto;;
-16:40;Higiene e Segurança no Trabalho;Tecnologia das Construções II;;Instalações Elétricas Prediais;;abc
-;Amândio;Cícero M;;Substituto;;
+15:50;Higiene e Segurança no Trabalho;Tecnologia das Construções II;Instalações Hidrossanitárias;Projeto Arquitetônico;;abc
+;Amândio;Cícero M;Taysa;Larisse;;
+16:40;Higiene e Segurança no Trabalho;Tecnologia das Construções II;;Projeto Arquitetônico;;abc
+;Amândio;Cícero M;;Larisse;;
 17:30;JANTAR;;;;;
 ;;;;;;
 18:00;;;;;;abc
