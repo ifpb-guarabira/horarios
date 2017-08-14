@@ -1,33 +1,33 @@
 Edificações 3;;;;;;
 Hora;Segunda;Terça;Quarta;Quinta;Sexta;
-7:00;;Geografia II;Biologia III;Introdução ao Projeto Arquitetônico;Educação Física III;abc
-;;Alexandre;Dayana;Larisse;Marcos;
-7:50;;Geografia II;Biologia III;Introdução ao Projeto Arquitetônico;Educação Física III;abc
-;;Alexandre;Dayana;Larisse;Marcos;
-8:40;;Matemática III;Matemática III;Introdução ao Projeto Arquitetônico;Educação Física III;abc
-;;Eduardo;Eduardo;Larisse;Marcos;
+7:00;;Geografia II;Biologia III;Português III;Física III;abc
+;;Alexandre;Dayana;Erivan;João Luiz;
+7:50;;Geografia II;Biologia III;Português III;Física III;abc
+;;Alexandre;Dayana;Erivan;João Luiz;
+8:40;;Desenho de Estruturas;Matemática III;;;abc
+;;Cícero M;Eduardo;;;
 9:30;INTERVALO;;;;;
 ;;;;;;
-9:50;;Matemática III;Matemática III;Português III;Química III;abc
-;;Eduardo;Eduardo;Erivan;André;
-10:40;;Desenho de Estruturas;Mecânica dos Solos;Português III;Química III;abc
-;;Cícero M;Substituto;Erivan;André;
-11:30;;Desenho de Estruturas;Mecânica dos Solos;;;abc
-;;Cícero M;Substituto;;;
+9:50;;Desenho de Estruturas;Matemática III;Introdução ao Projeto Arquitetônico;Educação Física III;abc
+;;Cícero M;Eduardo;Larisse;Marcos;
+10:40;;Matemática III;Mecânica dos Solos;Introdução ao Projeto Arquitetônico;Educação Física III;abc
+;;Eduardo;Adriano;Larisse;Marcos;
+11:30;;Matemática III;Mecânica dos Solos;Introdução ao Projeto Arquitetônico;Educação Física III;abc
+;;Eduardo;Adriano;Larisse;Marcos;
 12:20;ALMOÇO;;;;;
 ;;;;;;
-13:00;Sociologia III;;;Física III;Português III;abc
-;Rômulo Amorim;;;João Luiz;Erivan;
-13:50;Sociologia III;;;Física III;Português III;abc
-;Rômulo Amorim;;;João Luiz;Erivan;
+13:00;Sociologia III;;;Química III;Português III;abc
+;Rômulo Amorim;;;André;Erivan;
+13:50;Sociologia III;Tecnologia das Construções I;;Química III;Português III;abc
+;Rômulo Amorim;Adriano;;André;Erivan;
 14:40;INTERVALO;;;;;
 ;;;;;;
-15:00;História III;;;Tecnologia das Construções I;;abc
-;Divino;;;Substituto;;
-15:50;História III;;;Tecnologia das Construções I;;abc
-;Divino;;;Substituto;;
-16:40;;;;Tecnologia das Construções I;;abc
-;;;;Substituto;;
+15:00;História III;Tecnologia das Construções I;;;;abc
+;Divino;Adriano;;;;
+15:50;História III;Tecnologia das Construções I;;;;abc
+;Divino;Adriano;;;;
+16:40;;;;;;abc
+;;;;;;
 17:30;JANTAR;;;;;
 ;;;;;;
 18:00;;;;;;abc

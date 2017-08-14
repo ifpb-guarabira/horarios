@@ -16,18 +16,18 @@ Hora;Segunda;Terça;Quarta;Quinta;Sexta;
 ;;;;;;
 12:20;ALMOÇO;;;;;
 ;;;;;;
-13:00;Filosofia IV;História III;Análise e Projeto de Sistemas;Português IV;Redes de Computadores;abc
-;Michel;Divino;Fernanda;Erivan;Erick;
-13:50;Filosofia IV;História III;Análise e Projeto de Sistemas;Português IV;Redes de Computadores;abc
-;Michel;Divino;Fernanda;Erivan;Erick;
+13:00;Filosofia IV;História III;;Desenvolvimento de Aplicações Web;;abc
+;Michel;Divino;;Moisés;;
+13:50;Filosofia IV;História III;Tópicos Especiais;Desenvolvimento de Aplicações Web;;abc
+;Michel;Divino;Moisés;Moisés;;
 14:40;INTERVALO;;;;;
 ;;;;;;
-15:00;Biologia III;Física III;Desenvolvimento de Aplicações Web;Tópicos Especiais;;abc
-;Dayana;Arquimedes;Moisés;Moisés;;
-15:50;Biologia III;Física III;Desenvolvimento de Aplicações Web;Tópicos Especiais;;abc
-;Dayana;Arquimedes;Moisés;Moisés;;
-16:40;;;Desenvolvimento de Aplicações Web;;;abc
-;;;Moisés;;;
+15:00;Biologia III;Física III;Tópicos Especiais;Desenvolvimento de Aplicações Web;Redes de Computadores;abc
+;Dayana;Arquimedes;Moisés;Moisés;Erick;
+15:50;Biologia III;Física III;Análise e Projeto de Sistemas;Português IV;Redes de Computadores;abc
+;Dayana;Arquimedes;Fernanda;Erivan;Erick;
+16:40;;;Análise e Projeto de Sistemas;Português IV;;abc
+;;;Fernanda;Erivan;;
 17:30;JANTAR;;;;;
 ;;;;;;
 18:00;;;;;;abc

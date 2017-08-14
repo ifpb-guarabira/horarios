@@ -1,29 +1,29 @@
 Edificações 2;;;;;;
 Hora;Segunda;Terça;Quarta;Quinta;Sexta;
-7:00;Biologia II;Sociologia II;Inglês II;Português II;Física;abc
-;Dayana;Rômulo Amorim;Sabrina;Alcimar;João Luiz;
-7:50;Biologia II;Sociologia II;Inglês II;Português II;Física;abc
-;Dayana;Rômulo Amorim;Sabrina;Alcimar;João Luiz;
-8:40;Química II;Geografia I;Sociologia II;Matemática II;Português II;abc
-;Sayonara;Alexandre;Rômulo Amorim;Rômulo;Alcimar;
+7:00;História I;Física;Inglês II;Topografia;Geografia I;abc
+;Divino;Arquimedes;Sabrina;Kyara;Alexandre;
+7:50;História I;Física;Inglês II;Topografia;Geografia I;abc
+;Divino;Arquimedes;Sabrina;Kyara;Alexandre;
+8:40;Química II;Materiais de Construção;Matemática II;Topografia;Português II;abc
+;Sayonara;Adriano;Rômulo;Kyara;Alcimar;
 9:30;INTERVALO;;;;;
 ;;;;;;
-9:50;Química II;Geografia I;Sociologia II;Topografia;Desenho Arquitetônico;abc
-;Sayonara;Alexandre;Rômulo Amorim;Kyara;Larisse;
-10:40;Estabilidade das Construções;História I;Matemática II;Topografia;Desenho Arquitetônico;abc
-;Cícero M;Divino;Rômulo;Kyara;Larisse;
-11:30;Estabilidade das Construções;História I;Matemática II;Topografia;Desenho Arquitetônico;abc
-;Cícero M;Divino;Rômulo;Kyara;Larisse;
+9:50;Química II;Materiais de Construção;Matemática II;Matemática II;Desenho Arquitetônico;abc
+;Sayonara;Adriano;Rômulo;Rômulo;Larisse;
+10:40;Estabilidade das Construções;Sociologia II;Sociologia II;Português II;Desenho Arquitetônico;abc
+;Cícero M;Rômulo Amorim;Rômulo Amorim;Alcimar;Larisse;
+11:30;Estabilidade das Construções;Sociologia II;Sociologia II;Português II;Desenho Arquitetônico;abc
+;Cícero M;Rômulo Amorim;Rômulo Amorim;Alcimar;Larisse;
 12:20;ALMOÇO;;;;;
 ;;;;;;
 13:00;;;;;;abc
 ;;;;;;
-13:50;;;Materiais de Construção;;Educação Física II;abc
-;;;Substituto;;Marcos;
+13:50;;Biologia II;;;Educação Física II;abc
+;;Dayana;;;Marcos;
 14:40;INTERVALO;;;;;
 ;;;;;;
-15:00;;;Materiais de Construção;;Educação Física II;abc
-;;;Substituto;;Marcos;
+15:00;;Biologia II;;;Educação Física II;abc
+;;Dayana;;;Marcos;
 15:50;;;;;Educação Física II;abc
 ;;;;;Marcos;
 16:40;;;;;;abc
